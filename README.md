@@ -1,12 +1,12 @@
-# visualize-goes16
-This is a sample code to visualize GOES16 data, reading them directly from AWS S3 storage
-
-Cartopy package was used to label the boarders of states and countries
-
-https://unidata.github.io/python-training/gallery/mapping_goes16_truecolor/
 
 # Overview:
 This project explores the use of GOES-17 satellite bands for detecting and analyzing wildfire hazards such as smoke, fire, lightning, and dryness. Specifically, it focuses on the August 2020 California Wildfires [1], which were part of the August Complex Fire—one of the largest wildfires in California’s history. By examining different GOES-17 bands (ABI-1, ABI-2, ABI-3, ABI-13, AOD (Aerosol Optical Depth), FDC (Fire Detection and Characterization), and GLM(Geostationary Lightning Mapper)), we can visualize fire locations, monitor smoke spread, detect lightning events, and evaluate ground-level humidity [3].
+
+This code is used for GOES16/17 Virtual Science Fair - 2022 Middle School 1st Place Project. [Award announcement page](https://cimss.ssec.wisc.edu/education/goesr/1stPlace2022.html)
+
+See Poster [here](MiddleSchool-VSF_EricSun_SeanJiang_Poster.pdf)
+
+See presentation [here](https://youtu.be/y3VNeUSRuiM?si=xi6uQvIPewiQX9-N)
 
 # Code Explained
 ## 1. **Data Retrieval**:  
