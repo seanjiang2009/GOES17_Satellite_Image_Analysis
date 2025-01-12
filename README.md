@@ -57,8 +57,8 @@ Geostationary Lightning Mapper (GLM)
 To install them quickly via pip:
 ```bash
 pip install xarray netCDF4 cartopy matplotlib numpy requests boto3 botocore metpy
-```
-
+``` 
+ 
 # Code Usage
 ## 1. **Open the Jupyter Notebook**:  
    Launch Jupyter Notebook in your terminal:
