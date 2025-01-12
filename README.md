@@ -104,4 +104,4 @@ pip install xarray netCDF4 cartopy matplotlib numpy requests boto3 botocore metp
 
 # License
 
-This project is distributed under the [MIT License](https://opensource.org/licenses/MIT). Please see the [LICENSE](LICENSE) file for more details (if included in the repository).
+This project is distributed under the [MIT License](https://opensource.org/licenses/MIT).
